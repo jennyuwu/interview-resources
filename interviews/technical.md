@@ -26,7 +26,9 @@ After initial screening, you'll undergo coding assessments. Expect one to two ro
 <br></br>
 
 ### 2. System design interview (1 hour)
-Showcase your ability to design systems to solve specific problems. You will be given a short description of a problem and asked to design a system with multiple elements brought together to solve it. The interviewer will assess the various aspects of the system, including architecture, scalability, technology choices, resilience, operational excellence, and security.
+Showcase ability to design systems that solve specific problems. You will be given a short description of a problem and asked to design a system with multiple elements brought together to solve it. The interviewer will assess the various aspects of the system, including architecture, scalability, technology choices, resilience, operational excellence, and security.
+
+Documentation for detailed system design interview prep here -> [`system-design.md`](interviews/system-design.md)
 <br></br>
 
 ### 3. General technical interview (1 hour)
