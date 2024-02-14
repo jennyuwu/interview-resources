@@ -42,7 +42,7 @@ Supplement your preparation with resources like "Cracking the Coding Interview" 
 
 ### Structuring your responses
 Below is an excerpt from [_techinterviewhandbook.org_](https://www.techinterviewhandbook.org/coding-interview-prep/)
-**Basic response structure**
+**Basic response structure:**
 - **Communication:** Asking clarifying questions, communication of approach and trade-offs clearly such that the interviewer has no trouble following.
 - **Problem solving:** Understanding the problem and approaching it systemically, logically and accurately, discussing multiple potential approaches and trade-offs. Ability to accurately determine time and space complexity and optimize them.
 - **Technical competency:** Translating discussed solutions to working code with no significant struggle. Clean, correct implementation with strong knowledge of language constructs.
