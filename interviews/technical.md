@@ -1,5 +1,5 @@
 # Mastering the technical interview process
-Technical interviews assesses your depth and breadth of knowledge for your role. The overall process from start to finish can be upwards of several weeks and consists of multiple stages which vary depending on the company. The intensity and structure of interviews may differ significantly depending on the organization. For example:
+Technical interviews assesses your depth and breadth of knowledge for a role. The overall process from start to finish can be upwards of several weeks and consists of multiple stages which vary depending on the company. The intensity and structure of interviews may differ significantly depending on the organization. For example:
 - Small startups: 1-2 technical rounds with easy to moderate difficulty.
 - Enterprise companies (e.g., banks, utilities): 1-3 technical rounds with easy to moderate difficulty.
 - Product companies (e.g., FAANG): 2-3 technical rounds with moderate to hard difficulty.
