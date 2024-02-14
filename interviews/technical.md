@@ -50,5 +50,5 @@ Below is an excerpt from [_techinterviewhandbook.org_](https://www.techinterview
 
 <br></br>
 ## Closing thoughts
-- Pay attention to interviewer behavior for indications of your candidacy status (whether you'll progress to the next stage).
+- Paying attention to interviewer behaviour can provide potential hints of whether you're likely to progress or recieve an offer.
 - Understand that failing an interview is an opportunity for growth, not a reflection of your capabilities. Learn from the experience and keep improving.
