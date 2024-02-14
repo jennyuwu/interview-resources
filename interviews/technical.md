@@ -31,8 +31,8 @@ Showcase your ability to design systems to solve specific problems. You will be 
 
 ### 3. General technical interview (1 hour)
 Focuses on your overall software development lifecycle knowledge, technical expertise, and experience. Expect questions about your past roles, projects, technologies used, and understanding of domain-specific concepts (best practices, design patterns, trade-offs).
-<br></br>
 
+<br></br>
 ## Preparing for success
 Brush up on fundamental skills like data structures, algorithms, and problem-solving techniques. Practice on platforms like LeetCode, HackerRank, and CodeWars, starting with easier problems to build confidence. 
 
@@ -47,9 +47,8 @@ General evaluation criteria to guide structuring responses to technical question
 - **Problem solving:** Understanding the problem and approaching it systemically, logically and accurately, discussing multiple potential approaches and trade-offs. Ability to accurately determine time and space complexity and optimize them.
 - **Technical competency:** Translating discussed solutions to working code with no significant struggle. Clean, correct implementation with strong knowledge of language constructs.
 - **Testing:** Ability to test code against normal and corner cases, self-correcting issues in code.
+
 <br></br>
-
-
 ## Closing thoughts
 - Pay attention to interviewer behavior for indications of your candidacy status (whether you'll progress to the next stage).
 - Understand that failing an interview is an opportunity for growth, not a reflection of your capabilities. Learn from the experience and keep improving.
