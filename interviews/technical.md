@@ -34,11 +34,11 @@ Focuses on your overall software development lifecycle knowledge, technical expe
 <br></br>
 ## Preparing for success
 **General checklist:**
-- [] Practice desired programming language
-- [] CS fundamentals
-- [] System design
-- [] Behavioural
-- [] Negotiating offer
+- [ ] Practice desired programming language
+- [ ] CS fundamentals
+- [ ] System design
+- [ ] Behavioural
+- [ ] Negotiating offer
 
 Brush up on fundamental skills like data structures, algorithms, and problem-solving techniques. Practice on platforms like LeetCode, HackerRank, and CodeWars, starting with easier problems to build confidence. 
 
