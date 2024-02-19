@@ -52,3 +52,9 @@ Below is an excerpt from [_techinterviewhandbook.org_](https://www.techinterview
 ## Closing thoughts
 - Paying attention to interviewer behaviour can provide potential hints of whether you're likely to progress or recieve an offer.
 - Understand that failing an interview is an opportunity for growth, not a reflection of your capabilities. Learn from the experience and keep improving.
+
+<br></br>
+## Resources
+- Highly recommend!
+(Tech Interview Handbook)[https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
+
